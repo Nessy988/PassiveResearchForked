@@ -1,0 +1,63 @@
+<ModMetaData>
+  <name>Passive Research Forked</name>
+  <author>Mih0k</author>
+  <packageId>Mih0k.PassiveResearch</packageId>
+  <version>1.0.0</version>
+  <supportedVersions>
+    <li>1.5</li>
+  </supportedVersions>
+  <description>
+📜 Passive Research Forked
+
+By Mih0k
+
+    Let your colonists think their way to progress — even when they're not standing at a research bench.
+
+Passive Research Forked adds an alternative way to advance technology in your colony, based entirely on the intellectual strength of your pawns. Research is generated slowly and automatically over time, scaling with colonists' Intelligence levels. Perfect for tribal or minimalist colonies — or just to reflect the background thinking of your brightest minds.
+🔧 Features
+
+    🧠 Passive research ticks every in-game moment, scaled by colonist INT levels
+
+    📈 Skill-based curve with diminishing returns and mod support for levels 20–100
+
+    ⚙️ Configurable curve multiplier — pick how fast or slow your colony thinks
+
+    ❌ Option to disable research benches, allowing purely passive tech progression
+
+    🧮 Per-pawn contribution breakdown (optional in mod settings)
+
+    📅 Research rate is recalculated daily for consistent performance
+
+📊 How it Works
+
+Every day at 06:00, the mod:
+
+    Evaluates the Intellectual skill of all conscious colonists
+
+    Applies a customizable research curve
+
+    Splits the resulting research points across the day in small ticks
+
+This means smarter colonies research faster — even without a single research bench.
+⚙️ Settings
+
+Available in the mod options:
+
+    Enable/disable research benches
+
+    Choose curve multiplier (0.1x–10x)
+
+    View colonist contribution summary per day
+
+💡 Compatibility
+
+    ✅ Compatible with most mods, including skill-expanding ones (up to INT 100+)
+
+    ✅ Safe to add mid-save
+
+    ❌ Not designed to work alongside other total overhaul research systems (e.g., Research Reinvented)
+  </description>
+  <modDependencies>
+    <!-- No hard dependencies -->
+  </modDependencies>
+</ModMetaData>

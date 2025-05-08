@@ -1,0 +1,4 @@
+<MapComponentDef>
+  <defName>PassiveResearchComponent</defName>
+  <componentClass>PassiveResearchForked.MapComponent_PassiveResearch</componentClass>
+</MapComponentDef>
